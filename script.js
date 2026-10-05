@@ -1,4 +1,4 @@
-const YOUTUBE_CHANNEL_URL = "https://www.youtube.com/@melbet_turkey/";
+const YOUTUBE_CHANNEL_URL = "https://www.youtube.com/@MelBetAzərbaycan";
 const TELEGRAM_CHANNEL_URL = "https://t.me/+lMgpDkM6T8owYTA8";
 
 const cta = document.getElementById("youtubeCta");
