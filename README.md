@@ -1,18 +1,23 @@
-# Azerbaijan Prokladka
+# Azerbaijan Football Pre-Landing Page
 
-Azerbaijani mini landing page for a football YouTube channel.
+English-language mini landing page for the **90+ Azerbaijan** football YouTube channel.
 
-## Structure
+## Files
 
-- `index.html` — page markup and Azerbaijani copy
-- `styles.css` — responsive YouTube-inspired red/black design
-- `script.js` — YouTube/Telegram CTA URLs + click events for `dataLayer`
-- `favicon.svg` — simple 90+ favicon
+- `index.html` — English-language page copy, accessibility labels and SEO metadata
+- `styles.css`, `compact.css`, `logo-fix.css` — original responsive design
+- `script.js` — YouTube and Telegram destinations, click tracking and one-screen scaling
+- `photo_2026-04-15_00-22-03.jpg` — existing channel logo
+- `logo_turkey.svg` — existing favicon asset, now with English text
+- `favicon.svg` — alternate 90+ favicon
 
 ## Destinations
 
-The project currently uses the same YouTube and Telegram destinations as the source Turkey version.
+- YouTube: https://www.youtube.com/@MelBetAzərbaycan
+- Telegram: https://t.me/+O9GSNhMZ8XQ4MTdk
 
-## Deploy
+Both links and the `youtube_channel_click` / `telegram_channel_click` analytics events remain unchanged.
 
-This is a static site configured for Cloudflare Workers/Pages through `wrangler.jsonc`.
+## Deployment
+
+Static site for Cloudflare Workers/Pages via `wrangler.jsonc`. No build step is required.

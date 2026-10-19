@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">90+ Türkiye</title>
-  <desc id="desc">90+ Türkiye football channel logo</desc>
+  <title id="title">90+ Azerbaijan</title>
+  <desc id="desc">90+ Azerbaijan football channel logo</desc>
   <defs>
     <radialGradient id="bg" cx="50%" cy="36%" r="70%">
       <stop offset="0" stop-color="#202023"/>
@@ -22,5 +22,5 @@
   <path d="M151 348 C196 374 316 379 363 344" fill="none" stroke="#ff1c2f" stroke-width="8" stroke-linecap="round" opacity=".9"/>
   <text x="246" y="278" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="176" font-weight="900" letter-spacing="-16" fill="#ffffff">90</text>
   <text x="383" y="186" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="92" font-weight="900" fill="#ff1c2f">+</text>
-  <text x="256" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="50" font-weight="900" letter-spacing="5" fill="#ffffff">AZƏRBAYCAN</text>
+  <text x="256" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="50" font-weight="900" letter-spacing="5" fill="#ffffff">AZERBAIJAN</text>
 </svg>
